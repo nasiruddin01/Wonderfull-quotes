@@ -1,5 +1,8 @@
 # form-project
 
+This side is build in vue.js
+Site live link: https://wonderfull-quotes.netlify.app/
+
 ## Project setup
 ```
 npm install
